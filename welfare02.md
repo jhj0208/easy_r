@@ -44,7 +44,6 @@ table(welfare$sex)
     ##   9086   7578
 
 ``` r
-library(ggplot2)
 qplot(welfare$sex)
 ```
 
